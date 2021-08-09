@@ -1,4 +1,4 @@
-Hola que tal gente linda gente bonita :)
+#README
 
 - Python:
   - Librerias:
